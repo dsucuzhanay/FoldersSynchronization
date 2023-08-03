@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FoldersSynch": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\a\r\nD:\\b\r\n30\r\nD:\\log.txt"
+    }
+  }
+}
